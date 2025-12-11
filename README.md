@@ -20,6 +20,6 @@ Business Value
 •	Reveals card category performance and spending behavior
 •	Helps optimize marketing, card offers, and credit strategies
 
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/yashodeep-dhepe/Credit-Card-Analysis-Dashbord/blob/main/Credit%20Card%20Customer%20Report.png)
 
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/yashodeep-dhepe/Credit-Card-Analysis-Dashbord/blob/main/Credit%20Card%20Transaction%20Report.png)
